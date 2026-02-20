@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Tailwind v4 theme tokens */
+@theme {
+  --color-darkbg: #0a0a0a;
+  --color-neon: #00ff9c;
+}
