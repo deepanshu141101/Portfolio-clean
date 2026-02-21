@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react'
 
 const texts = [
   'MERN Stack Developer',
-  'React • Node • MongoDB',
+  'React • Node • Python • SQL• MongoDB',
   'Building scalable web apps'
 ]
 

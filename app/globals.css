@@ -5,3 +5,6 @@
   --color-darkbg: #0a0a0a;
   --color-neon: #00ff9c;
 }
+html {
+  scroll-behavior: smooth;
+}
